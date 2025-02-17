@@ -22,11 +22,9 @@
 
 ---
 
-### General Code Generation
+### General Code Generation <a name="general"></a>
 
 <details>
-
-<a name="general"></a>
     
 <summary><b>Minimal User Input</b></summary>
 
@@ -51,11 +49,9 @@
 
 ---
 
-### Hacking & Security Tools Development
+### Hacking & Security Tools Development <a name="hacking"></a>
 
 <details>
-
-<a name="hacking"></a>
 
 <summary><b>Hacking Tool Development</b></summary>
 
@@ -102,11 +98,9 @@
 
 ---
 
-### Bug Bounty & OSINT Tools
+### Bug Bounty & OSINT Tools <a name="bbtools"></a>
 
 <details>
-
-<a name="bbtools"></a>
 
 <summary><b>Bug Bounty Tool Development</b></summary>
 
@@ -131,11 +125,9 @@
 
 ---
 
-### Network & Security Development
+### Network & Security Development <a name="network"></a>
 
 <details>
-
-<a name="network"></a>
 
 <summary><b>Network Tools</b></summary>
 
@@ -171,11 +163,9 @@
 
 ---
 
-### Code Enhancer & Merging
+### Code Enhancer & Merging <a name="advanced"></a>
 
 <details>
-
-<a name="advanced"></a>
 
 <summary><b>Python Code Enhancer</b></summary>
 
