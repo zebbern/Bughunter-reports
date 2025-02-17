@@ -20,9 +20,9 @@
  
  **[Code Enhancer & Project Merging](#advanced)**
 
----
+</div>
 
-### General Code Generation <a name="general"></a>
+## General Code Generation <a name="general"></a>
 
 <details>
     
@@ -49,7 +49,7 @@
 
 ---
 
-### Hacking & Security Tools Development <a name="hacking"></a>
+## Hacking & Security Tools Development <a name="hacking"></a>
 
 <details>
 
@@ -98,7 +98,7 @@
 
 ---
 
-### Bug Bounty & OSINT Tools <a name="bbtools"></a>
+## Bug Bounty & OSINT Tools <a name="bbtools"></a>
 
 <details>
 
@@ -125,7 +125,7 @@
 
 ---
 
-### Network & Security Development <a name="network"></a>
+## Network & Security Development <a name="network"></a>
 
 <details>
 
@@ -163,7 +163,7 @@
 
 ---
 
-### Code Enhancer & Merging <a name="advanced"></a>
+## Code Enhancer & Merging <a name="advanced"></a>
 
 <details>
 
